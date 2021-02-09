@@ -1,6 +1,6 @@
 # Visualisation in matplotlib, Seaborn, Plotly & Cufflinks, EDA on Boston Housing, Titanic, IPL, FIFA, Covid-19 Data.
 
-### What you'll learn
+### What you'll learn in these topics by practising them
 * Learn Complete Exploratory Data Analysis on the Latest Covid-19 Dataset
 * Learn EDA on Kaggle's Boston Housing and Titanic Datasets
 * Learn IPL Cricket Matches and FIFA World Cup Matches Analysis and Visualization
@@ -17,7 +17,7 @@
 * Use the Pandas module with Python to create and structure data.
 * Customize graphs, modifying colors, lines, fonts, and more
 
-#### Who this course is for:
+#### Who these topics are for:
 * Beginners python programmers.
 * Beginners Data Science programmers.
 * Students of Data Science and Machine Learning.
